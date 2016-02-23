@@ -1,0 +1,4 @@
+/*this is border definition of a css class named thin_border*/
+.thin_border{
+    border: 1px solid black;
+}
